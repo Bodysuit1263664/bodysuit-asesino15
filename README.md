@@ -20,7 +20,7 @@
   </a>
 
 ```bash
-> git clone https://github.com/Samu330/NyanBot
+> git clone https://github.com/Bodysuit1263664/bodysuit-asesino15
 ```
 
 ## Inicia la Instalacion:
